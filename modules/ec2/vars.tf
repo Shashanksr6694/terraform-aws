@@ -1,0 +1,12 @@
+variable "aws_region" {}
+variable "instance_count" {}
+variable "ami" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "key_name" {}
+variable "associate_public_ip_address" {}
+variable "instance_name" {}
+variable "instance_size" {}
+variable "organization" {}
+variable "vpc_id" {}
+variable "sg_name" {}
