@@ -4,7 +4,7 @@ module "instances" {
   organization       = "shashanksrinfo"
   subnet_id	     = "subnet-92f48cbc"
   key_name           = "shashanksrinfo"
-  instance_count     = 11
+  instance_count     = 11 hihello
   associate_public_ip_address = true
   instance_name      = "shashanksrinfo"
   instance_size      = 10
